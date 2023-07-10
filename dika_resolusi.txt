@@ -1,4 +1,5 @@
 Hallo ini adalah resolusi Dika
-  Saya sedang berlatih untuk menggunakan github
-  semoga saya bisa konsisten 
-  ini adalah line yang saya edit
+ 1 Saya sedang berlatih untuk menggunakan github
+ 2 semoga saya bisa konsisten 
+ 3 ini adalah line yang saya edit
+ 4 ini adalah line kedua yang saya edit
