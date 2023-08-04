@@ -7,3 +7,4 @@ Hallo ini adalah resolusi Dika
 And hello this line was edited after a few days  i learn about github
 
 cek cek  123 hari jumat 4 8 2023
+ini kutulis dari branch kedua
